@@ -1,0 +1,7 @@
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore git files
+.gitignore
+.gitattributes
